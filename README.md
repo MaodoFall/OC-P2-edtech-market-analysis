@@ -1,6 +1,6 @@
 # 📊 Analyse de données de systèmes éducatifs
 
-**Projet 1 – Mastère Spécialisé Data Science – OpenClassrooms**  
+**Projet 2 – Mastère Spécialisé Data Science – OpenClassrooms**  
 **Rôle : Data Scientist**  
 **Client : Academy (Startup EdTech)**
 
